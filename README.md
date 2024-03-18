@@ -8,4 +8,4 @@ We find that our approach CMA-R -- Causal Mediation Analysis for Rumour detectio
 CMA-R can further highlight causally impactful words in the salient tweets, providing another layer of interpretability and transparency into these blackbox rumour detection systems.
 
 
-### Stay Tuned! Will upload the source code soon :D
+
